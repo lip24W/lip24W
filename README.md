@@ -47,7 +47,6 @@ https://docs.google.com/document/d/1GPC0p95xuTiL1EKAWA8rn4noyc05s9xk4nGJ5xjbr8g/
   - Основы SQL для выполнения запросов
 - **API-тестирование**:
   - Postman
-  - Swagger
 
 - **Веб-тестирование**:
   - DevTools (анализ и отладка)
