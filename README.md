@@ -4,6 +4,20 @@
 
 ---
 
+
+## CV
+https://docs.google.com/document/d/1GPC0p95xuTiL1EKAWA8rn4noyc05s9xk4nGJ5xjbr8g/edit?usp=sharing
+
+---
+
+## Портфолио
+
+- **Тестовая документация**:
+  - Тест-кейсы
+  - Баг-репорты
+  - Чек-листы
+---
+
 ## Опыт
 
 За время работы я успел поработать над различными проектами, где мои основные задачи включали:
@@ -12,10 +26,6 @@
 - Составление тестовой документации: тест-кейсы, чек-листы, баг-репорты.
 - Тестирование веб- и мобильных приложений.
 - Взаимодействие с командой разработки для оперативного устранения багов.
-
----
-## CV
-
 
 ---
 ## Скиллы
@@ -32,10 +42,8 @@
 
 - **Системы управления тестированием**:
   - Jira
-  - TestRail
-  - Zephyr
+  - QASE
 - **Базы данных**:
-  - MySQL
   - PostgreSQL
   - Основы SQL для выполнения запросов
 - **API-тестирование**:
@@ -85,6 +93,6 @@
 
 Если у вас есть вопросы или предложения, свяжитесь со мной:
 
-[![Email](https://img.shields.io/badge/Email-ваш--email@example.com-blue?style=flat-square&logo=gmail)](mailto:lipinetsky@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@ваш--telegram-blue?style=flat-square&logo=telegram)](https://t.me/evgeniilipinetsky)
+[![Email](https://img.shields.io/badge/Email-lipinetsky@gmail.com-blue?style=flat-square&logo=gmail)](mailto:lipinetsky@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@evgeniilipinetsky-blue?style=flat-square&logo=telegram)](https://t.me/evgeniilipinetsky)
 
