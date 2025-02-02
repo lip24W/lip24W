@@ -13,8 +13,8 @@ https://docs.google.com/document/d/1GPC0p95xuTiL1EKAWA8rn4noyc05s9xk4nGJ5xjbr8g/
 ## Портфолио
 
 - **Тестовая документация**:
-  - [Мой проект](https://github.com/lip24W/Test-cases)
-  - [Чек-листы](https://github.com/ваш-username/ваш-репозиторий](https://github.com/lip24W/check-list)
+  - [Тест-кейсы](https://github.com/lip24W/Test-cases)
+  - [Чек-листы](https://github.com/lip24W/check-list)
 ---
 
 ## Опыт
